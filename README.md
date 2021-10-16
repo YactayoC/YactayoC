@@ -12,13 +12,12 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-curve&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-curve&logo=python&logoColor=white" />
- 
 </p>
 
 <h6>🎨 Backend </h6>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-curve&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-curve&logo=python&logoColor=white" />
   <img alt="JakartaEE" src="https://img.shields.io/badge/-JakartaEE-eb8125?style=flat-curve&logo=jakarta&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-a7215b?style=flat-curve&logo=apache&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-f29111?style=flat-curve&logo=mysql&logoColor=white" />
