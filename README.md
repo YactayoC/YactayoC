@@ -34,7 +34,7 @@
 <h3>My stats</h3>
 <p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMeLeonardo&hide=contribs&count_private=true&show_icons=true&theme=shades-of-purple)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeLeonardo&layout=compact&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YactayoC&hide=contribs&count_private=true&show_icons=true&theme=shades-of-purple)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YactayoC&layout=compact&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
