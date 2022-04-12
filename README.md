@@ -23,7 +23,7 @@
   <img alt="JakartaEE" src="https://img.shields.io/badge/-JakartaEE-eb8125?style=flat-curve&logo=jakarta&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-a7215b?style=flat-curve&logo=apache&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-f29111?style=flat-curve&logo=mysql&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-curve&logo=node.js&logoColor=white" />
   <img alt="MongoDB" src="https://camo.githubusercontent.com/d64283da7b8617036dc6f86bd9519077e5f5b07efb5ba3005d888dd394b43004/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d6375727665266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-curve&logo=spring&logoColor=white&Color=white" />
   
