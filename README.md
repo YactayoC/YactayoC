@@ -20,7 +20,7 @@
 
 <h6>📦 Backend </h6>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-curve&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-curve&logo=python&logoColor=white" />
   <img alt="JakartaEE" src="https://img.shields.io/badge/-JakartaEE-eb8125?style=flat-curve&logo=jakarta&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-a7215b?style=flat-curve&logo=apache&logoColor=white" />
