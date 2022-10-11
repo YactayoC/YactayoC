@@ -49,3 +49,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YactayoC&hide=contribs&count_private=true&show_icons=true&theme=shades-of-purple)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YactayoC&layout=compact&show_icons=true&theme=shades-of-purple)
 </p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YactayoC&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
