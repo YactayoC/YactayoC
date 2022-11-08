@@ -12,7 +12,7 @@
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-curve&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-curve" />
   <img alt="CSS" src="https://camo.githubusercontent.com/b5ee97fcef479c7e408d268fbf0646b31b585d4c8c13eb7e4fa3f8bc1128c1f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3236346465343f7374796c653d666c61742d6375727665266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" />
   <img alt="SASS" src="https://img.shields.io/badge/-Sass-c76494?style=flat-curve&logo=sass&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-curve&logo=react&logoColor=white" />
