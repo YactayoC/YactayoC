@@ -40,7 +40,7 @@
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-curve&logo=git&logoColor=white" />
   <img alt="notion" src="https://camo.githubusercontent.com/70346579fbb193407ebfd2b86fa1cb1e3614fa13ffbdb34e84799003b8f8e2dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f74696f6e2d3766376637663f7374796c653d666c61742d6375727665266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465" />
-  <img alt="git" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-curve&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-curve&logo=docker&logoColor=white" />
 </p>
 
 
