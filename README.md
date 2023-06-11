@@ -1,7 +1,7 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> Hi 👋, Welcome to my little space </h1>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> Hi there! 👋, Welcome to my little space. Let's create something amazing together! </h1>
 <p>
   Hi I'm Sebastian from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Chilca, Lima, Perú.
-  I like to work in a team because I believe that our skills complement each other, so we can learn from each other.
+  I believe in the power of teamwork, where our collective skills complement each other, fostering mutual learning. I am dedicated to applying best practices and maintaining clean code in our collaborative endeavors.
 </p>
 <h2 align="center"> <i> To learn is to grow, and to grow is to become a better version of oneself </i></h2>
 
