@@ -1,4 +1,4 @@
-<h1>  <img src="https://github.com/YactayoC/YactayoC/assets/89726167/f4e68a44-5acf-4da1-9bb0-39f318093f4e" width="50" heigth="30"> Hi there! 👋, Welcome to my little space. Let's create something amazing together! </h1>
+<h1>  <img src="https://github.com/YactayoC/YactayoC/assets/89726167/70ab860c-8311-437d-863c-3afb1619ddb2" width="50" heigth="30"> Hi there! 👋, Welcome to my little space. Let's create something amazing together! </h1>
  <!-- <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> -->
 <p>
   I believe in the power of teamwork, where our collective skills complement each other, fostering mutual learning. I am dedicated to applying best practices and maintaining clean code in our collaborative endeavors.
