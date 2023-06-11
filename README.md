@@ -1,5 +1,5 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> Hi there! 👋, Welcome to my little space. Let's create something amazing together! </h1>
-<img src="[https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763](https://i.gifer.com/ZBFI.gif)" width="30">
+ <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30">
 
 <p>
   I believe in the power of teamwork, where our collective skills complement each other, fostering mutual learning. I am dedicated to applying best practices and maintaining clean code in our collaborative endeavors.
