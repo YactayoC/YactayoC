@@ -1,4 +1,4 @@
-<h1>  <img src="https://github.com/YactayoC/YactayoC/assets/89726167/95e3851c-eea5-4458-b62e-d061ea5c495d" width="80" heigth="30"> Hi there! 👋, Welcome to my little space. Let's create something amazing together! </h1>
+<h1>  <img src="https://github.com/YactayoC/YactayoC/assets/89726167/95e3851c-eea5-4458-b62e-d061ea5c495d" width="30" heigth="30"> Hi there! 👋, Welcome to my little space. Let's create something amazing together! </h1>
  <!-- <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> -->
  
 <p>
