@@ -3,7 +3,7 @@
   Hi I'm Sebastian from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Chilca, Lima, Perú.
   I like to work in a team because I believe that our skills complement each other, so we can learn from each other.
 </p>
-<h2 align="center"> <i> Never stop learning, because life stops teaching </i></h2>
+<h2 align="center"> <i> To learn is to grow, and to grow is to become a better version of oneself </i></h2>
 
 <h3>Technologies I have worked with</h3>
 
